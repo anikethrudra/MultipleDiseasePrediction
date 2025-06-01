@@ -5,8 +5,8 @@
 ### Project Members
 1. KHAN MOHAMMED DANISH NISAR AHMED  [ Team Leader ] 
 2. MANJREKAR SOHAM SHRIKANT 
-3. KHAN MUZAFFAR MOHAMMAD SOAIB 
-4. JAMADAR DANISH RASHID 
+3. aniketh rudra 
+ 
 
 
 ### Deployment Steps
